@@ -1,10 +1,17 @@
 # Python 가상환경 무시
 .yolo/
 yolo/
+.yolo_w/
+yolo_w/
+
+# 학습
+model.pt
 
 # env
 .env/
 env/
+
+data/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
