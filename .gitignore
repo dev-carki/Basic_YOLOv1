@@ -4,14 +4,15 @@ yolo/
 .yolo_w/
 yolo_w/
 
-# 학습
-model.pt
 
 # env
 .env/
 env/
 
 data/
+*.png
+*.pth
+*.pt
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
