@@ -5,6 +5,8 @@ yolo/
 yolo_w/
 
 
+test.py
+
 # env
 .env/
 env/
@@ -13,7 +15,8 @@ data/
 *.png
 *.pth
 *.pt
-
+*.json
+*.cache
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
